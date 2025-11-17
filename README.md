@@ -264,6 +264,8 @@ void loop() {
 ## 7. 總結
 
 本專案提供一個簡單、清楚的 ESP32 + ST7735 TFT 顯示範例：
+<img width="603" height="499" alt="image" src="https://github.com/user-attachments/assets/136355cd-7214-4a80-9b0e-be2beeeab0a4" />
+
 
 - 採用 Adafruit 官方函式庫，安裝與使用方式標準。  
 - GPIO 腳位配置遵守 ESP32 的使用原則，避開敏感腳位。  
